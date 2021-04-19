@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Canon T6",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "Tripé XPTO",
+            "price": 250.00
+        },
+        {
+            "id": 3,
+            "name": "cabo HDMI",
+            "price": 10.00
+        }
+    ]
+}
