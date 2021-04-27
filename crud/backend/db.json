@@ -1,19 +1,44 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Canon T6",
-            "price": 5.89
-        },
-        {
-            "id": 2,
-            "name": "Tripé XPTO",
-            "price": 250.00
-        },
-        {
-            "id": 3,
-            "name": "cabo HDMI",
-            "price": 10.00
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Canon T6",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Tripé XPTO",
+      "price": 250
+    },
+    {
+      "id": 3,
+      "name": "cabo HDMI",
+      "price": 10
+    },
+    {
+      "name": "Produto A",
+      "price": 129.99,
+      "id": 4
+    },
+    {
+      "name": "Produto A",
+      "price": 129.99,
+      "id": 5
+    },
+    {
+      "name": "Cadeira",
+      "price": "234.89",
+      "id": 6
+    },
+    {
+      "name": "Sofá",
+      "price": "1234.90",
+      "id": 7
+    },
+    {
+      "name": "Notebook ",
+      "price": "3500",
+      "id": 8
+    }
+  ]
 }
