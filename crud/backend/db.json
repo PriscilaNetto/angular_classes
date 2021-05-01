@@ -39,6 +39,11 @@
       "name": "Notebook ",
       "price": "3500",
       "id": 8
+    },
+    {
+      "name": "Capa notebook",
+      "price": "17.00",
+      "id": 9
     }
   ]
 }
