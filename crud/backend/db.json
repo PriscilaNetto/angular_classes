@@ -1,19 +1,9 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Canon T6",
-      "price": 5.89
-    },
-    {
       "id": 2,
       "name": "Tripé XPTO",
       "price": 250
-    },
-    {
-      "id": 3,
-      "name": "cabo HDMI",
-      "price": 10
     },
     {
       "name": "Produto A",
@@ -27,7 +17,7 @@
     },
     {
       "name": "Cadeira",
-      "price": "234.89",
+      "price": "235",
       "id": 6
     },
     {
@@ -37,7 +27,7 @@
     },
     {
       "name": "Notebook ",
-      "price": "3500",
+      "price": "4500",
       "id": 8
     },
     {
